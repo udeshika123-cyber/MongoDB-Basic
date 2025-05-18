@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "6825f5d5ce361b116b6c4bd1"
+  },
+  "title": "The way of kings",
+  "author": "Brandon sanderson",
+  "rating": 9,
+  "pages": 400,
+  "genres": [
+    "fantasy"
+  ],
+  "review": [
+    {
+      "name": "Yoshi",
+      "body": "great book!!!"
+    },
+    {
+      "name": "Mary",
+      "body": "Hello mary!!!"
+    }
+  ]
+}]
